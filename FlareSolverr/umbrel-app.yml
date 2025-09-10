@@ -1,0 +1,22 @@
+manifestVersion: 1
+id: flaresolverr  
+name: FlareSolverr
+tagline: FlareSolverr is a proxy server to bypass Cloudflare and DDoS-GUARD protection.
+icon: https://avatars.githubusercontent.com/u/75936191?s=48&v=4
+category: Development
+version: "1.0.0"
+port: 8191
+description: >-
+  FlareSolverr is a proxy server to bypass Cloudflare and DDoS-GUARD protection.
+  You can also add newlines!
+
+developer: FlareSolverr
+website: https://github.com/FlareSolverr/FlareSolverr
+submitter: Suraj
+submission: https://github.com/surajbhari/umbrel-community-app-store
+repo: https://github.com/surajbhari/umbrel-community-app-store
+support: https://github.com/surajbhari/umbrel-community-app-store/issues
+dependencies: []
+path: ""
+defaultUsername: ""
+defaultPassword: ""
